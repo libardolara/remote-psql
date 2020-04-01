@@ -1,0 +1,1 @@
+'{"configuration": {"wal_level": "logical","max_replication_slots": 21,"max_wal_senders": 21}}'
